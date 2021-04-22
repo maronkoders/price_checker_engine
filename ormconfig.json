@@ -1,0 +1,12 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "",
+    "database": "savemore",
+    "entities":["./dist/entities/**/*.js"],
+    "synchronize":true,
+    "jwtSecret":"brgjsudvsdsdsdjsdnsdsdsdsff@13dw"
+ }
+
